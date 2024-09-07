@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Grant_Library_Data", "Grant_Library_Data\Grant_Library_Data.sqlproj", "{3C4A412E-FAB3-46D9-B73D-26735F690DD2}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Deadline_Verifier", "Deadline_Verifier\Deadline_Verifier.pyproj", "{31B3FFC1-8533-4643-BB5A-243553AF3999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{3C4A412E-FAB3-46D9-B73D-26735F690DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C4A412E-FAB3-46D9-B73D-26735F690DD2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C4A412E-FAB3-46D9-B73D-26735F690DD2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31B3FFC1-8533-4643-BB5A-243553AF3999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B3FFC1-8533-4643-BB5A-243553AF3999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
